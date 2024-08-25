@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(200, 223, 153);
+}
+div{
+    height: 200px;
+    width:200px;
+    display: inline-block;
+}
+
+#id1{
+    background-color: antiquewhite;
+}
+#id2{
+    background-color: rgb(218, 250, 215);
+}
+#id3{
+    background-color: rgb(226, 144, 37);
+}
+#id4{
+    background-color: rgb(250, 215, 218);
+}
+h1{
+    background-color: blueviolet;
+}
